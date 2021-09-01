@@ -22,4 +22,4 @@ $ git clone https://github.com/Dicky-XD/SimplePrem
 
 $ cd SimplePrem
 
-$ python2 Prem.py
+$ python2 SiPrem.py
